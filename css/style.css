@@ -10,7 +10,7 @@ html {
    font-size: 62.5%;
 }
 
-/** Declare page comment elements **/
+/** Declare page comon elements **/
 body {
    font-family: 'Helvetica', 'Arial', Helvetica, sans-serif;
    font-size: 1.6rem;
@@ -61,7 +61,7 @@ a:visited {
 
 a:hover,
 a:active {
-   color: #e69c3d
+   color: #e69c3d;
 }
 
 /** Declare font size for h1, h2, and h3 tag for the whole site **/
@@ -94,7 +94,7 @@ h3 { font-size: 20px; }
    background: #e0e0e0;
    max-width: 59.5%;
    height: 500px;
-   margin: 0 auto;
+   margin: auto;
    float: left;
 }
 
@@ -103,7 +103,7 @@ h3 { font-size: 20px; }
    background: #e0e0e0;
    max-width: 40%;
    height: 500px;
-   margin: 0 auto;
+   margin: auto;
    float: right;
 }
 
