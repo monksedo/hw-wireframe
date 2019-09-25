@@ -116,9 +116,7 @@ h3 { font-size: 20px; }
 }
 
 /** Declare background for artical 1, 2, and 3 inside left side Column **/
-.artical-1,
-.artical-2,
-.artical-3 {
+.article {
    background: #e0e0e0;
    margin: 10px;
 }
@@ -129,5 +127,4 @@ h3 { font-size: 20px; }
    width: 100%;
    margin: 5px auto;
    height: 60px;
-   /* float: left; */
 }
